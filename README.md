@@ -1,6 +1,8 @@
 # golang-bcrypt
 How to hash a password in golang
 
+```golang
+
 package Cryptic
 
   /*
@@ -47,4 +49,6 @@ package Cryptic
 		return false
 	}
     return true
-  }
+  }  
+  ```
+
